@@ -61,7 +61,7 @@ export default function Weather() {
       </div>
       <small>
         <p>
-          <a href="https://github.com/ellieforbes/Weather-App" target="_blank">
+          <a href="https://github.com/ellieforbes/Weather-App" target="_blank" rel="noreferrer">
             Open-source Code{" "}
           </a>
           by Ellie Forbes
